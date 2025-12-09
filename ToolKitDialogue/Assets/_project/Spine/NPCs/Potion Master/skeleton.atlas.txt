@@ -1,0 +1,166 @@
+skeleton.png
+size:4096,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+Left eyebrow
+bounds:3653,579,232,215
+Mouth test/Idle mouth potion master
+bounds:3489,345,232,215
+rotate:90
+Mouth test/Rika-_Final_Design-1
+bounds:2349,516,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-10
+bounds:2420,773,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-12
+bounds:2349,265,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-13
+bounds:2513,14,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-14
+bounds:2577,522,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-15
+bounds:2648,773,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-16
+bounds:2577,271,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-17
+bounds:2741,20,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-18
+bounds:2805,522,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-19
+bounds:2876,773,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-2
+bounds:2805,271,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-20
+bounds:2969,20,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-21
+bounds:3033,522,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-22
+bounds:3104,773,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-3
+bounds:3033,271,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-4
+bounds:3197,20,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-5
+bounds:3261,522,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-6
+bounds:3332,773,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-7
+bounds:3261,271,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-8
+bounds:3425,20,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-9
+bounds:3653,796,249,226
+Potion_Master_-1
+bounds:1471,23,172,1040
+rotate:90
+Potion_Master_-10
+bounds:156,4,89,119
+Potion_Master_-11
+bounds:552,53,43,74
+Potion_Master_-12
+bounds:247,8,115,181
+rotate:90
+Potion_Master_-13
+bounds:2214,767,204,255
+Potion_Master_-14
+bounds:1122,9,191,180
+Potion_Master_-15
+bounds:1315,4,188,154
+rotate:90
+Potion_Master_-16
+bounds:585,191,831,569
+rotate:90
+Potion_Master_-17
+bounds:1505,200,291,290
+rotate:90
+Potion_Master_-18 - Copy
+bounds:324,129,259,893
+Potion_Master_-19
+bounds:817,7,303,182
+Potion_Master_-2
+bounds:1156,194,174,297
+Potion_Master_-20
+bounds:594,2,49,127
+rotate:90
+Potion_Master_-21
+bounds:430,22,32,105
+Potion_Master_-22
+bounds:723,4,59,47
+Potion_Master_-23
+bounds:2114,198,43,56
+Potion_Master_-24
+bounds:1901,591,431,311
+rotate:90
+Potion_Master_-25
+bounds:1156,493,407,529
+Potion_Master_-26
+bounds:41,125,281,897
+Potion_Master_-27
+bounds:784,4,31,47
+Potion_Master_-28
+bounds:1744,531,46,57
+Potion_Master_-29
+bounds:2,2,56,58
+Potion_Master_-3
+bounds:1332,197,171,294
+Potion_Master_-30
+bounds:1679,519,69,63
+rotate:90
+Potion_Master_-31
+bounds:2114,256,65,68
+Potion_Master_-32
+bounds:1565,516,72,69
+rotate:90
+Potion_Master_-33
+bounds:464,34,86,93
+Potion_Master_-34
+bounds:3653,111,232,215
+rotate:90
+Potion_Master_-35
+bounds:430,2,18,78
+rotate:90
+Potion_Master_-36
+bounds:510,9,23,82
+rotate:90
+Potion_Master_-4
+bounds:1565,590,334,432
+Potion_Master_-5
+bounds:1797,224,315,364
+Potion_Master_-6
+bounds:60,3,94,120
+Potion_Master_-7
+bounds:1636,517,41,71
+Potion_Master_-8
+bounds:597,53,136,203
+rotate:90
+Potion_Master_-9
+bounds:2114,326,233,263
+Potion_Master_eyes
+bounds:3706,345,232,215
+rotate:90
+Right eyebrow
+bounds:3870,111,232,215
+rotate:90
+floor
+bounds:2,62,960,37
+rotate:90

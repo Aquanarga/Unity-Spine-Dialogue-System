@@ -1,0 +1,219 @@
+skeleton.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+scale:0.5
+Back_Left
+bounds:3048,2904,152,108
+Back_Right
+bounds:1649,2801,163,111
+rotate:90
+Bottle
+bounds:1413,1336,249,199
+rotate:90
+Fist_Left
+bounds:3814,3261,115,123
+rotate:90
+Fist_Right
+bounds:1426,536,99,108
+Hold
+bounds:2434,2941,111,96
+Liquid
+bounds:2595,2550,145,109
+rotate:90
+Mouth test/Idle mouth
+bounds:3610,3606,442,488
+Mouth test/Rika-_Final_Design-1
+bounds:3205,3021,249,226
+Mouth test/Rika-_Final_Design-10
+bounds:1309,2596,249,226
+Mouth test/Rika-_Final_Design-12
+bounds:1309,2368,249,226
+Mouth test/Rika-_Final_Design-13
+bounds:1298,2140,249,226
+Mouth test/Rika-_Final_Design-14
+bounds:3456,3021,249,226
+Mouth test/Rika-_Final_Design-15
+bounds:1637,2550,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-16
+bounds:3574,3343,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-17
+bounds:3802,3378,249,226
+Mouth test/Rika-_Final_Design-18
+bounds:3707,3010,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-19
+bounds:1521,1108,249,226
+Mouth test/Rika-_Final_Design-2
+bounds:1489,880,249,226
+Mouth test/Rika-_Final_Design-20
+bounds:1489,652,249,226
+Mouth test/Rika-_Final_Design-22
+bounds:1489,652,249,226
+Mouth test/Rika-_Final_Design-21
+bounds:1740,857,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-3
+bounds:1740,629,249,226
+Mouth test/Rika-_Final_Design-4
+bounds:1865,2551,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-5
+bounds:2093,2713,249,226
+Mouth test/Rika-_Final_Design-6
+bounds:2093,2485,249,226
+Mouth test/Rika-_Final_Design-7
+bounds:2344,2690,249,226
+rotate:90
+Mouth test/Rika-_Final_Design-8
+bounds:2344,2462,249,226
+Mouth test/Rika-_Final_Design-9
+bounds:2572,2811,249,226
+Point_Left
+bounds:3048,2790,112,134
+rotate:90
+Point_Right
+bounds:1952,2839,100,139
+rotate:90
+Riva-1 - Copy
+bounds:1045,536,379,108
+Riva-1
+bounds:1045,536,379,108
+Riva-10
+bounds:929,7,162,232
+rotate:90
+Riva-11
+bounds:1762,2928,188,526
+Riva-11.1
+bounds:1420,3456,188,526
+rotate:90
+Riva-12
+bounds:1952,2941,239,480
+rotate:90
+Riva-12.1
+bounds:816,2140,239,480
+rotate:90
+Riva-13
+bounds:2026,3645,578,449
+Riva-14
+bounds:1420,3646,604,448
+Riva-15
+bounds:2956,3264,338,328
+Riva-16
+bounds:816,2922,611,500
+rotate:90
+Riva-17
+bounds:816,2381,491,539
+Riva-18
+bounds:1318,2824,140,329
+rotate:90
+Riva-19
+bounds:2558,3039,249,334
+rotate:90
+Riva-2
+bounds:409,2028,405,1032
+Riva-2.1
+bounds:2,3062,405,1032
+Riva-2.2
+bounds:2,2028,405,1032
+Riva-2.3
+bounds:409,3062,405,1032
+Riva-2.4
+bounds:2,994,405,1032
+Riva-20
+bounds:1045,646,442,488
+Riva-20.1
+bounds:41,2,442,488
+Riva-20.2
+bounds:485,2,442,488
+Riva-20.4
+bounds:485,2,442,488
+Riva-20.3 - Copy
+bounds:911,1024,110,121
+rotate:90
+Riva-20.3
+bounds:911,1024,110,121
+rotate:90
+Riva-21
+bounds:2517,3182,38,53
+Riva-22
+bounds:816,2032,90,106
+Riva-23
+bounds:2395,3237,161,406
+Riva-24
+bounds:1181,194,269,340
+Riva-25
+bounds:1413,1587,253,194
+rotate:90
+Riva-26
+bounds:2395,3182,120,53
+Riva-26.1
+bounds:1318,3480,95,53
+Riva-27
+bounds:1952,3182,441,461
+Riva-28
+bounds:1560,2351,56,182
+Riva-29
+bounds:1560,2535,75,287
+Riva-3
+bounds:2558,3290,302,396
+rotate:90
+Riva-30
+bounds:1413,1842,109,296
+Riva-31
+bounds:1413,1145,106,189
+Riva-32
+bounds:3574,3261,80,238
+rotate:90
+Riva-33
+bounds:2572,2697,112,154
+rotate:90
+Riva-4
+bounds:2894,3014,248,309
+rotate:90
+Riva-5
+bounds:3939,3261,121,115
+Riva-6
+bounds:3296,3249,276,343
+Riva-7
+bounds:2823,2804,223,208
+Riva-8
+bounds:1762,2802,154,124
+Riva-9
+bounds:929,171,250,349
+Riva-eye closed
+bounds:1318,2966,442,488
+Riva_Hair_Back
+bounds:816,3535,602,559
+Shoes
+bounds:2434,3057,123,102
+rotate:90
+Shoes (1)
+bounds:3935,3010,118,103
+rotate:90
+Spin/Spin 1
+bounds:2606,3594,500,500
+Spin/Spin 2
+bounds:3108,3594,500,500
+Spin/Spin 3
+bounds:409,1526,500,500
+Spin/Spin 4
+bounds:409,1024,500,500
+Spin/Spin 5
+bounds:41,492,500,500
+Spin/Spin 6
+bounds:543,522,500,500
+Spin/Spin 7
+bounds:911,1638,500,500
+Spin/Spin 8
+bounds:911,1136,500,500
+Spin/speed effect
+bounds:1452,409,125,50
+rotate:90
+Think_Left
+bounds:3935,3130,112,129
+floor
+bounds:2,32,960,37
+rotate:90
